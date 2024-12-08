@@ -1,0 +1,1 @@
+console.logo("Hello word!");
