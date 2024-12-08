@@ -25,7 +25,11 @@ input{
 }
 
 #nomeHeroi {
-    width: 390px;
+    width: 330px;
+}
+
+#experiencia {
+    width: 100px;
 }
 
 button {
